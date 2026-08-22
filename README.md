@@ -22,4 +22,3 @@ Welcome to my DSA training repository! This repository contains all the code and
    ```
 2. Open the file in your preferred IDE (VS Code, IntelliJ, etc.).
 3. Run the file using the standard compiler/interpreter.
-# DSA-TRAINING
