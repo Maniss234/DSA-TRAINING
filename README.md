@@ -8,8 +8,8 @@ Welcome to my DSA training repository! This repository contains all the code and
 - **Goal:** To master problem-solving and understand core computer science concepts.
 
 ## 📚 Topics Covered So Far
-- [ ] Arrays (1D & 2D)
-- [ ] Strings
+- [✅] Arrays (1D & 2D)
+- [✅] Strings
 - [ ] Recursion & Backtracking
 - [ ] Linked List
 - [ ] Stacks & Queues
