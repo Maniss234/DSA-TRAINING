@@ -15,6 +15,20 @@ My aim is to build a rock-solid foundation in Data Structures and Algorithms thr
 
 As a Computer Science (AI/ML) student, I'm preparing to crack placements in product-based companies by 3rd-4th year — focusing not just on interview prep, but on becoming a well-rounded developer who can build, break, and understand systems from the ground up.
 
+## 📚 Topics Covered
+
+- Arrays (1D & 2D)
+- Searching (Linear Search, Binary Search, Search in Rotated Sorted Array)
+- Sorting (Bubble Sort, Selection Sort, Insertion Sort)
+- Strings
+- Two Pointers
+- Prefix Sum
+- Math
+- Linked List
+- Stack
+- Queue
+- Hashing
+
 ## 🛠️ Languages Used
 
 - C++
