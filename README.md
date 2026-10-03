@@ -1,6 +1,6 @@
 # DSA Practice
 
-🔗 **My LeetCode Profile:** [View Here](https://leetcode.com/u/tumhara-username)
+🔗 **My LeetCode Profile:** [View Here](https://leetcode.com/u/Manish-234/)
 
 This repository contains my Data Structures and Algorithms practice.
 
@@ -8,7 +8,7 @@ This repository contains my Data Structures and Algorithms practice.
 
 This repo contains the C++ code files for problems taught during my college DSA sessions, numbered in the order they were covered in class.
 
-For problems I solve independently, I use [LeetCode](https://leetcode.com/u/tumhara-username) — all solved problems (college + LeetCode both) are tracked below with dates, topics, and platform.
+For problems I solve independently, I use [LeetCode](https://leetcode.com/u/Manish-234/) — all solved problems (college + LeetCode both) are tracked below with dates, topics, and platform.
 
 ## 🎯 Goal
 
@@ -27,7 +27,7 @@ Building strong DSA fundamentals through consistent daily practice — with the 
 - Stack
 - Queue
 - Hashing
-- Recursion (Basics, Arrays/Strings, Stack)
+- Recursion (Basics, Arrays/Strings, Stack, Sorting)
 - Subsequence / Include-Exclude
 - Backtracking
 
@@ -153,6 +153,8 @@ Building strong DSA fundamentals through consistent daily practice — with the 
 | 2026-09-22  | Recursion Basics            | 509. Fibonacci Number                                        | College + LeetCode     | Easy       | ✅ Done |
 | 2026-09-22  | Math/Recursion              | 326. Power of Three                                          | LeetCode               | Easy       | ✅ Done |
 | 2026-09-22  | Arrays/Binary Search        | 4. Median of Two Sorted Arrays                               | LeetCode               | Hard       | ✅ Done |
+| 2026-09-22  | Recursion - Sorting         | Merge Sort (using Recursion)                                   | College                | Medium     | ✅ Done |
+| 2026-09-23  | Recursion - Sorting         | Quick Sort (using Recursion)                                    | College                | Medium     | ✅ Done |
 | 2026-09-23  | Recursion Basics            | Print 1 to N                                                 | College                | Easy       | ✅ Done |
 | 2026-09-23  | Recursion Basics            | Print N to 1                                                 | College                | Easy       | ✅ Done |
 | 2026-09-23  | Recursion Basics            | Sum of First N Numbers                                       | College                | Easy       | ✅ Done |
@@ -199,7 +201,7 @@ Building strong DSA fundamentals through consistent daily practice — with the 
 | 2026-10-02  | Backtracking                | 46. Permutations                                               | LeetCode               | Medium     | ✅ Done |
 | 2026-10-03  | Backtracking                | 51. N-Queens                                                   | LeetCode               | Hard       | ✅ Done |
 
-**Total Problems Solved:** 163 (College: 82 | LeetCode: 85)
+**Total Problems Solved:** 163 (College: 84 | LeetCode: 85)
 **Last Updated:** 2026-10-03
 
 ---
